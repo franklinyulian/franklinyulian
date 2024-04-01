@@ -19,7 +19,7 @@ I'm Franklin, a software developer living in Bogotá, Colombia.
       <img alt="Franklin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thelittlemister&show_icons=true&theme=transparent&include_all_commits=true&hide=issues,prs,contribs" />
     </td>
     <td>
-      <img alt="Franklin Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" />
+      <img alt="Franklin Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelittlemister&layout=compact&theme=transparent" />
     </td>
   </tr>
 </table>
