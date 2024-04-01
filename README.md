@@ -1,4 +1,4 @@
-<a href="https://m.youtube.com/franklinyulian" target="_blank">
+<a href="https://m.youtube.com/franklinyulian">
   <img alt="Franklin Yulian" src="https://yt3.googleusercontent.com/b0qV-x4iNEpvyeDzormczGdzC-GFCL7h_ydl7cgQovOPygoM9j2BZdJ26wzON4SlF4l3BFee=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
 </a>
 
@@ -10,7 +10,7 @@ I'm Franklin, a software developer living in Bogotá, Colombia.
 
 * [Orcus](https://scratch.mit.edu/projects/387535576), a video game in outer space, requires keyboard (WASD), mouse pointer, and lots of clicking and spaces!
 * [Aquarium](https://aquariumschool.co), a website where we are specialized in offering regular and personalized swimming courses for boys and girls.
-* [DualNBack](https://dualn-back.com/), a memory game in which you must remember n previous spatial and auditory stimuli.
+* [DualNBack](https://dualn-back.com), a memory game in which you must remember n previous spatial and auditory stimuli.
 
 ## Stats
 <table>
