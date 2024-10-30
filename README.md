@@ -11,7 +11,7 @@ I'm Franklin, a software developer living in Bogotá, Colombia.
 * [Orcus](https://scratch.mit.edu/projects/387535576), a video game set in outer space, requires keyboard (WASD), the spacebar and lots of clicks!
 * [Aquarium](https://aquariumschool.co), a swim school specializing in regular and personalized swimming courses for boys and girls.
 * [DualNBack](https://dualn-back.com), a memory game in which you must remember n previous spatial and auditory stimuli.
-* [AvgMonitor](https://avgmonitor-test.web.app), a market study of various chemical products for crop protection.
+* [AvgMonitor](https://avgmonitor.web.app), a market price monitoring of various crop protection chemicals.
 
 ## Stats
 <table>
