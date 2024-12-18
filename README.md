@@ -12,15 +12,3 @@ I'm Franklin, a software developer living in Bogotá, Colombia.
 * [Aquarium](https://aquariumschool.co), a swim school specializing in regular and personalized swimming courses for boys and girls.
 * [DualNBack](https://dualn-back.com), a memory game in which you must remember n previous spatial and auditory stimuli.
 * [AvgMonitor](https://avgmonitor.web.app), a market price monitoring of various crop protection chemicals.
-
-## Stats
-<table>
-  <tr>
-    <td>
-      <img alt="Franklin GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thelittlemister&show_icons=true&theme=transparent&include_all_commits=true&hide=issues,prs,contribs" />
-    </td>
-    <td>
-      <img alt="Franklin Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelittlemister&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
