@@ -1,5 +1,5 @@
 <a href="https://m.youtube.com/franklinyulian">
-  <img alt="Franklin Yulian" src="https://yt3.googleusercontent.com/b0qV-x4iNEpvyeDzormczGdzC-GFCL7h_ydl7cgQovOPygoM9j2BZdJ26wzON4SlF4l3BFee=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
+  <img alt="Franklin Yulian" src="https://yt3.googleusercontent.com/8w51Rie3Jy4Q9wKr8CHvfzxiGeKuI1KolHVJrR1aICjGbqS8clnNGOdpZt-Cpq4ekXDbagrr=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
 </a>
 
 # Hello Monsters!
