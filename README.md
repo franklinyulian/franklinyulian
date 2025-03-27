@@ -4,7 +4,9 @@
 
 # Hello Monsters!
 
-I'm Franklin, a software developer living in Bogotá, Colombia.
+I'm Franklin, a software developer living in Bogotá, Colombia. 
+
+Currently building a Lambda's Anti-Matter Biofuel Collision Hadron Oxidating Potentiator that actually runs on biofuel.
 
 ## Projects
 
